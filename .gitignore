@@ -1,0 +1,6 @@
+seminar
+*.zip
+*.bin
+*.pem
+SEED*
+bin
