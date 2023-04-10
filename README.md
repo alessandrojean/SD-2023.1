@@ -27,9 +27,11 @@ Federal University of ABC (UFABC).
 - **30/03/2023** *(Theory)*: Security Mechanisms: Firewall and IDS.
 - **03/04/2023** *(Seminar)*: Secure Web Application Development; Cyber Defense; and Blockchain.
 - **06/04/2023** *(Seminar)*: Secure Software Development; Lattice-based Digital Signature Algorithms; and Standards and Security Management.
+- **10/04/2023** *(Laboratory)*: [Network Security (TCP)].
 
 [Symmetric Cryptography]: laboratory/laboratory-02/
 [Buffer Overflow]: laboratory/laboratory-03/
+[Network Security (TCP)]: laboratory/laboratory-04/
 
 ## License
 
